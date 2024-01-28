@@ -1,6 +1,6 @@
 # MVC ( Model View Controller) Coin App
 
-## MVC stands for Model-View-Controller, which is a software architectural pattern commonly used in developing user interfaces. Here's a brief overview of each component:
+### MVC stands for Model-View-Controller, which is a software architectural pattern commonly used in developing user interfaces. Here's a brief overview of each component:
 
 ### Model : Represents the application's data and business logic. It encapsulates the data and behaviors of the application, providing an interface to manipulate and access the data.
 
@@ -48,7 +48,7 @@
 
 ### Formik is the world's most popular open source form library for React and React Native.
 
-#### Yup allows us to verify the data in the form.
+### Yup allows us to verify the data in the form.
 
 ##SCREEN GIF
 
